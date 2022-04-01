@@ -5,7 +5,7 @@
 - ✨ My favorite Programming Language is Python<br>
 <h3>My Goal</h3>
 1. Make a cool game without Stack Overflow.<br>
-2. Make a cool game without Game Engine.<br>
+2. Make a cool game without a Game Engine.<br>
 
 
 <!---
