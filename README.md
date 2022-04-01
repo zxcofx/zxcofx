@@ -1,8 +1,10 @@
 <h2>Hello World</h2>
-- 👋 Hi, I’m @zxcofx<br>
-- 👀 I'm currently not interested in anything<br>
-- 🌱 I’m currently learning C++<br>
-- ✨ My favorite Programming Language is Python<br>
+<ul>
+  <li>👋 Hi, I’m @zxcofx<br></li>
+  <li>👀 I'm currently not interested in anything<br></li>
+  <li>🌱 I’m currently learning C++<br></li>
+  <li>✨ My favorite Programming Language is Python<br></li>
+</ul>
 <h3>My Goal</h3>
 1. Make a cool game without Stack Overflow.<br>
 2. Make a cool game without a Game Engine.<br>
